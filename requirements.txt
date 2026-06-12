@@ -1,0 +1,36 @@
+# Core data processing
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning and similarity analysis
+scikit-learn
+
+# Environment variable management
+python-dotenv
+
+# LangChain and RAG components
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
+
+# OpenAI API
+openai
+
+# Benchmark datasets and RAG evaluation
+datasets
+ragas
+
+# Sparse retrieval and reranking
+rank-bm25
+sentence-transformers
+
+# Notebook support
+ipykernel
+jupyter
