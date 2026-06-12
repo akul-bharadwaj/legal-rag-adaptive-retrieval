@@ -40,7 +40,7 @@ rag_legal/
 │   ├── cuad.json
 │   └── maud.json
 │
-├── RAG_Legal_Docs_GitHub_Cleaned.ipynb
+├── RAG_Legal_Docs.ipynb
 ├── requirements.txt
 └── README.md
 ```
