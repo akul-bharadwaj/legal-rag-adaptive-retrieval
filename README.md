@@ -163,7 +163,6 @@ For legal RAG systems, high recall is especially important because missing a rel
 - RAGAS
 - BM25 retrieval
 - SentenceTransformers cross-encoder reranking
-- ROUGE score package
 
 ---
 
