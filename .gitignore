@@ -1,0 +1,5 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+legal_agreement_vector_db/
+chroma_db/
